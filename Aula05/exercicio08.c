@@ -27,13 +27,3 @@ int main() {
     }
     return 0;
 }
-
-/*Faça um programa para ler a IDADE, PESO,
-ALTURA e o sexo (0 para feminino e 1 para
-masculino) de 8 pessoas.
-Calcular e escrever:
--a maior e a menor altura de ambos
--a média do peso das mulheres
--o número de homens
--a média da altura dos homens
--o número de mulheres com peso maior de 75*/
