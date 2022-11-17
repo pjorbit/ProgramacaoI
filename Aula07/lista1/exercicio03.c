@@ -12,7 +12,7 @@ int main() {
     scanf("%d", &num2);
     printf("Numeros entre %d e %d \n", num1, num2);
     for(num1; num1 <= num2; num1++) {
-        printf("%d \n", num1);
+        printf("%d ", num1);
     }
 
     return 0;

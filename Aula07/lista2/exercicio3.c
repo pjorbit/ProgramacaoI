@@ -14,7 +14,7 @@ int main() {
     for (i = 0; i <= 10; i++){
         printf("Entre com seu numero: \n");
         scanf("%d", &nuns[i]);
-        soma = i + nuns[i+1];
+        soma=soma+nuns[i];
     }
     media = soma / 10;
     printf("Sua media foi: %.2f", media);
