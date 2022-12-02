@@ -11,9 +11,10 @@ int main() {
 
     int nomePais[50];
 
+    printf("Entre com o nome de um país. \n")
     for (int i = 0; i < count; i++)
     {
-        /* code */
+        scanf()
     }
     
 
