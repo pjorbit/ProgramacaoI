@@ -16,6 +16,7 @@ int main() {
         printf("Entre com um numero: \n");
         scanf("%d", &vetor[i]);
     }
+
     for (int i = 0; i < tamanhoVetor; i++) {
         if(vetor[i] >= valorMaior) {
             valorMaior = vetor[i];
