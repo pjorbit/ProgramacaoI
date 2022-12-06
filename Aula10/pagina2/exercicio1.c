@@ -9,14 +9,12 @@ exemplo a seguir:*/
 int main() {
     setlocale(LC_ALL, "Portuguese");
 
-    int nomePais[50];
+    char nomePais[50];
 
-    for (int i = 0; i < count; i++)
-    {
-        /* code */
-    }
+    printf("Nome pais: ");
+    gets(nomePais);
     
-
+    printf("Conteudo: %s", nomePais);
 
     return 0;
 }
