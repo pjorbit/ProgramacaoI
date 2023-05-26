@@ -11,8 +11,16 @@ int main() {
 
     char nomePais[50];
 
+<<<<<<< HEAD
     printf("Nome pais: ");
     gets(nomePais);
+=======
+    printf("Entre com o nome de um país. \n")
+    for (int i = 0; i < count; i++)
+    {
+        scanf()
+    }
+>>>>>>> a1ca04a0a2274c177e002013fe8731bf488772f5
     
     printf("Conteudo: %s", nomePais);
 
